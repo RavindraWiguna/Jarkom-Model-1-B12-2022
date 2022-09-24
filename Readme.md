@@ -1,6 +1,6 @@
 # Jarkom-Modul-1-B12-2022
 
-**soal no.8
+**soal no.8**
 
 Telusuri aliran paket dalam file .pcap yang diberikan, cari informasi berguna berupa percakapan antara dua mahasiswa terkait tindakan kecurangan pada kegiatan praktikum. Percakapan tersebut dilaporkan menggunakan protokol jaringan dengan tingkat keandalan yang tinggi dalam pertukaran datanya sehingga kalian perlu menerapkan filter dengan protokol yang tersebut.
 
@@ -17,7 +17,7 @@ Jawab:
 
 ![image](https://user-images.githubusercontent.com/73664125/192088822-56e0f1c7-4f7a-48c6-9142-c0f3501a8f0f.png)
 
-**soal no.9
+**soal no.9**
 terdapat laporan yang isinya pertukaran file yang dilakukan kedua mahasiswa filenya ditemukan di sini lalu kita save file tersebut dalam bentuk raw dengan nama
 "[nama_file].des3"
 
@@ -31,7 +31,7 @@ lalu akan terbuat file seperti ini
 
 ![image](https://user-images.githubusercontent.com/73664125/192090629-6a36a850-8b14-47b9-8f6f-4d5164f24180.png)
 
-**soal no.10
+**soal no.10**
 
 Lalu untuk jawaban nomor 10 berupa isi yang ada fi file txt tadi
 

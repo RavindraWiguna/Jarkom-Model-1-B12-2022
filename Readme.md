@@ -135,3 +135,6 @@ Lalu untuk jawaban nomor 10 berupa isi yang ada fi file txt tadi
 yaitu:
 ![image](https://user-images.githubusercontent.com/73664125/192092189-d0599007-1790-47b4-80e3-087c673838b7.png)
 
+### Kendala
+
+Belum ada kendala

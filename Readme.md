@@ -60,6 +60,38 @@ Hasil filter<br>
 
 ## Soal 5
 
+### Wireshark filter expression
+```udp.srcport == 443 or tcp.srcport == 443```
+
+Serupa dengan di atas, hanya saja yang berasal dari port 443<br>
+
+Hasil filter<br>
+
+## Soal 6
+
+### Wireshark filter expression
+```ip.dst == 203.160.128.158```
+
+Jawab: 
+1. Mencari ping lipi.go.id di command prompt.
+2. memfilter pada display filter resource "soal3-6"
+
+Hasil command prompt<br>
+
+Hasil filter<br>
+
+## Soal 7
+
+### Wireshark filter expression
+```src host 193.168.1.26```
+
+1. input "ipconfig" pada command prompt untuk mencari ip kita.
+2. memfilter pada capture filter wireshark wifi
+
+Hasil command prompt<br>
+
+Hasil filter<br>
+
 **soal no.8**
 
 Telusuri aliran paket dalam file .pcap yang diberikan, cari informasi berguna berupa percakapan antara dua mahasiswa terkait tindakan kecurangan pada kegiatan praktikum. Percakapan tersebut dilaporkan menggunakan protokol jaringan dengan tingkat keandalan yang tinggi dalam pertukaran datanya sehingga kalian perlu menerapkan filter dengan protokol yang tersebut.

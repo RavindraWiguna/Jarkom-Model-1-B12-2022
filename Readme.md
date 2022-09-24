@@ -66,6 +66,7 @@ Hasil filter<br>
 Serupa dengan di atas, hanya saja yang berasal dari port 443<br>
 
 Hasil filter<br>
+![](/images/Picture8.png)
 
 ## Soal 6
 
@@ -77,8 +78,10 @@ Jawab:
 2. memfilter pada display filter resource "soal3-6"
 
 Hasil command prompt<br>
+![](/images/Picture9.png)
 
 Hasil filter<br>
+![](/images/Picture10.png)
 
 ## Soal 7
 
@@ -86,13 +89,15 @@ Hasil filter<br>
 ```src host 193.168.1.26```
 
 1. input "ipconfig" pada command prompt untuk mencari ip kita.
-2. memfilter pada capture filter wireshark wifi
+2. memfilter pada capture filter wifi di wireshark
 
 Hasil command prompt<br>
+![](/images/Picture11.png)
 
 Hasil filter<br>
+![](/images/Picture12.png)
 
-**soal no.8**
+### Soal 8
 
 Telusuri aliran paket dalam file .pcap yang diberikan, cari informasi berguna berupa percakapan antara dua mahasiswa terkait tindakan kecurangan pada kegiatan praktikum. Percakapan tersebut dilaporkan menggunakan protokol jaringan dengan tingkat keandalan yang tinggi dalam pertukaran datanya sehingga kalian perlu menerapkan filter dengan protokol yang tersebut.
 
@@ -109,7 +114,7 @@ Jawab:
 
 ![image](https://user-images.githubusercontent.com/73664125/192088822-56e0f1c7-4f7a-48c6-9142-c0f3501a8f0f.png)
 
-**soal no.9**
+### Soal 9
 terdapat laporan yang isinya pertukaran file yang dilakukan kedua mahasiswa filenya ditemukan di sini lalu kita save file tersebut dalam bentuk raw dengan nama
 "[nama_file].des3"
 
@@ -123,7 +128,7 @@ lalu akan terbuat file seperti ini
 
 ![image](https://user-images.githubusercontent.com/73664125/192090629-6a36a850-8b14-47b9-8f6f-4d5164f24180.png)
 
-**soal no.10**
+### Soal 10
 
 Lalu untuk jawaban nomor 10 berupa isi yang ada fi file txt tadi
 

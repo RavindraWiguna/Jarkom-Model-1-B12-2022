@@ -40,4 +40,22 @@ Setelah dibuka didapatkan bahwa judul TA yang dilihat adalah ```Evaluasi unjuk k
 
 ## Soal 3
 
+### Wireshark filter expression
+```udp.dstport == 80 or tcp.dstport == 80```
+
+Kita dapat memfilter paket-paket yang menuju port 80 dengan mengecek jika dstport == 80 baik upd maupun tcp<br>
+
+Hasil filter<br>
+![](/images/Picture6.png)
+
 ## Soal 4
+
+### Wireshark filter expression
+```udp.srcport == 21 or tcp.srcport == 21```
+
+Serupa dengan di atas, hanya saja yang berasal, maka dari itu kita filter yang srcport == 21, baik udp maupun tcp<br>
+
+Hasil filter<br>
+![](/images/Picture7.png)
+
+## Soal 5
